@@ -1,0 +1,42 @@
+# SiteLatitude = 39.3752
+# SiteLongitude = 114.5282
+# SurfaceAge = 310
+#
+## bottom_age	bottom_depth	min_water_depth	max_water_depth	lithology					
+323	245	0	50	Limestone 	0.8	 Shale 	0.2		
+353	475	200	600	Shale	0.8	Limestone	0.2		
+358	505	0	50	Limestone	0.9	Shale	0.1		
+365	690	200	600	Shale	0.7	Limestone	0.3		
+386	1145	0	50	Dolostone	0.6	Limestone	0.4		
+400	1405	0	50	Dolostone	0.9	Limestone	0.1		
+419	1585	0	50	Dolostone	0.9	Limestone	0.1		
+443	1890	0	50	Dolostone	0.9	Limestone	0.1		
+452	2080	0	50	Dolostone	0.8	Limestone	0.1	Shale	0.1
+460	2155	0	50	Sand	1				
+485	3350	0	50	Limestone	0.8	Limestone	0.2		
+492	3685	0	50	Limestone	1				
+497	3870	50	150	Shale	0.8	Limestone	0.2		
+500	4480	0	50	Limestone	0.8	Dolostone	0.2		
+501	4645	50	150	Limestone	0.5	Shale	0.5		
+505	5255	50	150	Dolostone	0.6	Limestone	0.4		
+507	5350	200	600	Shale		0.8	Sand	0.2		
+565	6850	0	200	Sand	1				
+573	7020	200	600	Shale	1				
+585	7220	200	600	Sand	1				
+590	7520	200	800	Sand	0.5	Shale	0.5		
+594	7800	200	1100	Sand	1				
+596	8140	200	1200	Shale	1				
+600	8250	200	1200	Sand	1				
+617	8390	200	1200	Shale	1				
+622	8690	200	1200	Sand	0.6	Shale	0.4		
+632	9490	200	1200	Shale	1				
+634.5	9650	200	1200	Limestone	0.5	Shale	0.5		
+635	9660	400	500	Dolostone	1				
+650	11060	400	1000	Sand	1				
+660	12260	800	1000	Sand	0.5	Shale	0.5		
+685	12600	400	600	Conglomerate	0.3	Sand	0.7		
+688	12670	400	600	Sand	1				
+695	12710	400	600	Sand	1				
+717	13020	400	600	Conglomerate	0.5	Sand	0.5		
+750	13150	400	600	Limestone	1				
+760	13190	800	1000	Shale	1					
